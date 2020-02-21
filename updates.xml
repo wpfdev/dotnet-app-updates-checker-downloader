@@ -1,0 +1,9 @@
+<Updates>
+	<ProgramInfo>
+		<Id>my_awesome_app</Id>
+		<LastVersion>2</LastVersion>
+		<DownloadURLs>
+			<URL>http://localhost/updates/appname/my_awesome_app.exe</URL>
+		</DownloadURLs>
+	</ProgramInfo>
+</Updates>
